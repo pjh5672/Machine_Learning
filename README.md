@@ -7,7 +7,7 @@ Email: pjh5672.dev@gmail.com
 ## Descriptions
 This is a record of Cosera's machine learning classes and related mathematics. It consists of specialized courses provided by the University of Washington and Imperial College London. it is divided into detailed courses.   
   
-### Each detailed course is as follows:   
+### ☑️Each detailed course is as follows:   
 - Mathematics for Machine Learning from Imperial College London     
     - Linear Algebra
     - Multivariate Calculus
