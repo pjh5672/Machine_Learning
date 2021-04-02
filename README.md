@@ -21,8 +21,8 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 
 
 ### :memo: References
+- **[Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning?)**  
 - **[Coursera - Machine Learning Foundations:A Case Study Approach](https://www.coursera.org/learn/ml-foundations?specialization=machine-learning)**     
-- **[Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning?)**     
 
 
 ## Updates
