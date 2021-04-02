@@ -29,4 +29,4 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Date | Commit Message |
 |:----:|:----:|
 | Apr/02/2021 | new creation, Week 1: getting started with SFrame |
- Apr/03/2021 | Week 2 : predicting house price |
+ Apr/03/2021 | Week 2 : predicting house price, Vector transformation, PageRank example update |
