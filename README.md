@@ -23,4 +23,4 @@ Each detailed course is as follows:
 ## Updates
 | Date | Commit Message |
 |:----:|:----:|
-| Apr/02/2021 | new creation |
+| Apr/02/2021 | new creation, week 1: getting started with SFrame |
