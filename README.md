@@ -23,4 +23,5 @@ Each detailed course is as follows:
 ## Updates
 | Date | Commit Message |
 |:----:|:----:|
-| Apr/02/2021 | new creation, week 1: getting started with SFrame |
+| Apr/02/2021 | new creation, Week 1: getting started with SFrame |
+ Apr/03/2021 | Week 2 : predicting house price |
