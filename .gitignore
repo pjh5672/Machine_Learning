@@ -1,5 +1,6 @@
 ## IGNORE FILE ##
 *.cfg
 *.log
+*.csv
 .ipynb_checkpoints/
 venv/
