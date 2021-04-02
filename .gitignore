@@ -1,0 +1,5 @@
+## IGNORE FILE ##
+*.cfg
+*.log
+.ipynb_checkpoints/
+venv/
