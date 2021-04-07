@@ -39,4 +39,4 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Apr/03/2021 | Week 2 : predicting house price, Vector transformation, PageRank example update |
 | Apr/05/2021 | Week 3 : Analyzingproduct sentiment | 
 | Apr/06/2021 | Week 4 : Retrieving Wikipedia articles, Week 5: Recommending songs | 
-| Apr/07/2021 | new create -> Advanced Machine Learning | 
+| Apr/07/2021 | new creation -> Advanced Machine Learning | 
