@@ -15,14 +15,21 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 
 - Machine Learning Course from University of Washington   
     - Machine Learning Foundations: A Case Study Approach
-    - Machine Learning: Regression
-    - Machine Learning: Classification
-    - Machine Learning: Clustering & Retrieval   
+
+- Advanced Machine Learning
+    - Introduction to Deep Learning
+    - How to Win a Data Science Competition: Learn from Top Kagglers
+    - Bayesian Methods for Machine Learning
+    - Practical Reinforcement Learning
+    - Deep Learning in Computer Vision
+    - Natural Language Processing
+    - Addressing Large Hadron Collider Challenges by Machine Learing
 
 
 ### :memo: References
 - **[Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning?)**  
 - **[Coursera - Machine Learning Foundations:A Case Study Approach](https://www.coursera.org/learn/ml-foundations?specialization=machine-learning)**     
+- **[Coursera - Advanced Machine Learning](https://www.coursera.org/specializations/aml)**     
 
 
 ## Updates
@@ -32,3 +39,4 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Apr/03/2021 | Week 2 : predicting house price, Vector transformation, PageRank example update |
 | Apr/05/2021 | Week 3 : Analyzingproduct sentiment | 
 | Apr/06/2021 | Week 4 : Retrieving Wikipedia articles, Week 5: Recommending songs | 
+| Apr/07/2021 | new create -> Advanced Machine Learning | 
