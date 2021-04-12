@@ -41,3 +41,4 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Apr/06/2021 | Week 4 : Retrieving Wikipedia articles, Week 5: Recommending songs | 
 | Apr/07/2021 | new creation -> Advanced Machine Learning | 
 | Apr/10/2021 | Introduction to Deep Learning - Week 1 : Linear models and Optimization update | 
+| Apr/12/2021 | Introduction to Deep Learning - Week 2 : Simple neural network modeling update | 
