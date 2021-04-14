@@ -4,4 +4,3 @@
 *.csv
 .ipynb_checkpoints/
 venv/
-R_Library/

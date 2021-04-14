@@ -16,7 +16,20 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 - Machine Learning Course from University of Washington   
     - Machine Learning Foundations: A Case Study Approach
 
-- Advanced Machine Learning
+- Machine Learning from Stanford University (Prof. Andrew Ng)  
+    - Linear Algebra Review
+    - Linear Regression 
+    - Logistic Regression
+    - Regularization
+    - Neural Networks
+    - Support Vector Machines
+    - Unsupervised Learning
+    - Dimensionality Reduction
+    - Anomaly Detection
+    - Recommender Systems
+    - Large Scale Machine Learning
+
+- Advanced Machine Learning (HSE University)
     - Introduction to Deep Learning
     - How to Win a Data Science Competition: Learn from Top Kagglers
     - Bayesian Methods for Machine Learning
@@ -28,7 +41,8 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 
 ### :memo: References
 - **[Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning?)**  
-- **[Coursera - Machine Learning Foundations:A Case Study Approach](https://www.coursera.org/learn/ml-foundations?specialization=machine-learning)**     
+- **[Coursera - Machine Learning Foundations:A Case Study Approach](https://www.coursera.org/learn/ml-foundations?specialization=machine-learning)**    
+- **[Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)**   
 - **[Coursera - Advanced Machine Learning](https://www.coursera.org/specializations/aml)**     
 
 
@@ -42,3 +56,4 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Apr/07/2021 | new creation -> Advanced Machine Learning | 
 | Apr/10/2021 | Introduction to Deep Learning - Week 1 : Linear models and Optimization update | 
 | Apr/12/2021 | Introduction to Deep Learning - Week 2 : Simple neural network modeling update | 
+| Apr/14/2021 | Machine Learning(Stanford Univ.) : Week02 Linear Regression example update |
