@@ -56,4 +56,5 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Apr/07/2021 | new creation -> Advanced Machine Learning | 
 | Apr/10/2021 | Introduction to Deep Learning - Week 1 : Linear models and Optimization update | 
 | Apr/12/2021 | Introduction to Deep Learning - Week 2 : Simple neural network modeling update | 
-| Apr/14/2021 | Machine Learning(Stanford Univ.) : Week02 Linear Regression example update |
+| Apr/14/2021 | Machine Learning(Stanford Univ.) : Week02 Linear Regression update |
+| Apr/15/2021 | Machine Learning(Stanford Univ.) : Logistic Regression - Neural Network Learning update |
