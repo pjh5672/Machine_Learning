@@ -59,3 +59,4 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Apr/14/2021 | Machine Learning(Stanford Univ.) : Week02 Linear Regression update |
 | Apr/15/2021 | Machine Learning(Stanford Univ.) : Logistic Regression - Neural Network Learning update |
 | Apr/19/2021 | Machine Learning(Stanford Univ.) : Week09 Anomaly Detection & Recommender System update |
+| Apr/20/2021 | Deep Learning in Computer Vision(HSE Univ.) : Week01 Image Alignment task update |
