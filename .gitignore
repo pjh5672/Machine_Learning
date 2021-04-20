@@ -4,5 +4,7 @@
 *.csv
 *.mat
 *.txt
+*.ipynb
+*.pickle
 .ipynb_checkpoints/
 venv/
