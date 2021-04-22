@@ -61,3 +61,4 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Apr/19/2021 | Machine Learning(Stanford Univ.) : Week09 Anomaly Detection & Recommender System update |
 | Apr/20/2021 | Deep Learning in Computer Vision(HSE Univ.) : Week01 Image alignment task update |
 | Apr/21/2021 | Deep Learning in Computer Vision(HSE Univ.) : Week01 Image alignment task_v2 update |
+| Apr/23/2021 | Deep Learning in Computer Vision(HSE Univ.) : Week02 Facial keypoints regression update |
