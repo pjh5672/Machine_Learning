@@ -5,7 +5,7 @@ Email: pjh5672.dev@gmail.com
 ````
 
 ## Descriptions
-This is a record of Cosera's machine learning classes and related mathematics. It consists of specialized courses provided by the University of Washington and Imperial College London. it is divided into detailed courses.   
+This is a record of Cosera's machine learning classes and related mathematics. It consists of specialized courses provided by the University of Washington and Imperial College London. it is divided into detailed courses. Moreover, I update codes for Machine Learning Challenge in Programmers.      
   
 ### ✔️ Each detailed course is as follows:   
 - Mathematics for Machine Learning from Imperial College London     
@@ -40,6 +40,7 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 
 
 ### :memo: References
+- **[Machine Learning Challenge in Programmers](https://programmers.co.kr)** 
 - **[Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning?)**  
 - **[Coursera - Machine Learning Foundations:A Case Study Approach](https://www.coursera.org/learn/ml-foundations?specialization=machine-learning)**    
 - **[Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)**   
@@ -62,3 +63,4 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Apr/20/2021 | Deep Learning in Computer Vision(HSE Univ.) : Week01 Image alignment task update |
 | Apr/21/2021 | Deep Learning in Computer Vision(HSE Univ.) : Week01 Image alignment task_v2 update |
 | Apr/23/2021 | Deep Learning in Computer Vision(HSE Univ.) : Week02 Facial keypoints regression update |
+| Apr/23/2021 | Machine Learning Challenge in Programmers (Job Recommendation Task) update |
