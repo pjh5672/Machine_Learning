@@ -1,7 +1,7 @@
 import sys
 import os
 import pickle
-from scipy.misc import imread
+from matplotlib.pyplot import imread
 
 if sys.version_info[0] == 2:
     from urllib import urlretrieve

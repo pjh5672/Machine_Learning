@@ -10,3 +10,9 @@
 *.h5
 .ipynb_checkpoints/
 venv/
+*.hdf5
+*.pyc
+*.index
+*checkpoint
+.data*
+*.dat

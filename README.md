@@ -31,12 +31,7 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 
 - Advanced Machine Learning (HSE University)
     - Introduction to Deep Learning
-    - How to Win a Data Science Competition: Learn from Top Kagglers
-    - Bayesian Methods for Machine Learning
-    - Practical Reinforcement Learning
     - Deep Learning in Computer Vision
-    - Natural Language Processing
-    - Addressing Large Hadron Collider Challenges by Machine Learing
 
 
 ### :memo: References
@@ -64,3 +59,4 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Apr/21/2021 | Deep Learning in Computer Vision(HSE Univ.) : Week01 Image alignment task_v2 update |
 | Apr/23/2021 | Deep Learning in Computer Vision(HSE Univ.) : Week02 Facial keypoints regression update |
 | Apr/23/2021 | Machine Learning Challenge in Programmers (Job Recommendation Task) update |
+| May/06/2021 | Deep Learning in Computer Vision : Week03 ~ 05 task solution update |

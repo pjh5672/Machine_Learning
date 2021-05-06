@@ -4,8 +4,8 @@
 from __future__ import division
 import math
 import random
-import scipy.misc
 import numpy as np
+import matplotlib.pyplot as plt
 
 def get_image(image_path, image_size, is_crop=True):
     return transform(imread(image_path), image_size, is_crop)
@@ -14,7 +14,7 @@ def save_images(images, size, image_path):
     return imsave(inverse_transform(images), size, image_path)
 
 def imread(path):
-    return scipy.misc.imread(path).astype(np.float)
+    return plt.imread(path).astype(np.float)
 
 def merge_images(images, size):
     return inverse_transform(images)
@@ -30,7 +30,7 @@ def merge(images, size):
 
 def imsave(images, size, path):
     img = merge(images, size)
-    return scipy.misc.imsave(path, (255*img).astype(np.uint8))
+    return plt.imsave(path, (255*img).astype(np.uint8))
 
 def transform(image, npx=64, is_crop=True):
     return np.array(image)/127.5 - 1.
