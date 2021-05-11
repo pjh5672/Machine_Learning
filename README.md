@@ -33,13 +33,21 @@ This is a record of Cosera's machine learning classes and related mathematics. I
     - Introduction to Deep Learning
     - Deep Learning in Computer Vision
 
+- Deep Learning (DeepLearning.AI)
+    - Nueral Networks and Deep Learning
+    - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+    - Structuring Machine Learning Projects
+    - Convolutional Neural Networks
+    - Sequence Models
+
 
 ### :memo: References
 - **[Machine Learning Challenge in Programmers](https://programmers.co.kr)** 
 - **[Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning?)**  
 - **[Coursera - Machine Learning Foundations:A Case Study Approach](https://www.coursera.org/learn/ml-foundations?specialization=machine-learning)**    
 - **[Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)**   
-- **[Coursera - Advanced Machine Learning](https://www.coursera.org/specializations/aml)**     
+- **[Coursera - Advanced Machine Learning](https://www.coursera.org/specializations/aml)**   
+- **[Coursera - Deep Learning](https://www.coursera.org/specializations/deep-learning)**    
 
 
 ## Updates
@@ -60,3 +68,4 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Apr/23/2021 | Deep Learning in Computer Vision(HSE Univ.) : Week02 Facial keypoints regression update |
 | Apr/23/2021 | Machine Learning Challenge in Programmers (Job Recommendation Task) update |
 | May/06/2021 | Deep Learning in Computer Vision : Week03 ~ 05 task solution update |
+| May/11/2021 | Neural Networks and Deep Learning : Week02 Python Basics, Logistic Regression with a NN mindset update |
