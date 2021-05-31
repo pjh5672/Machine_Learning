@@ -71,3 +71,4 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | May/11/2021 | Neural Networks and Deep Learning : Week02 Python Basics, Logistic Regression with a NN mindset update |
 | May/25/2021 | similar image finder using simple distance & angle calculation update |
 | May/27/2021 | Principal Component Analysis algorithm update |
+| May/31/2021 | Deep Learning(Course 1) Neural networks simple modeling & deep learning application update |
