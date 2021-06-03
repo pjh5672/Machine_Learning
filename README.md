@@ -73,4 +73,5 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | May/27/2021 | Principal Component Analysis algorithm update |
 | May/31/2021 | Deep Learning(Course 1) Neural Networks and Deep Learning: simple modeling & deep learning application update |
 | Jun/02/2021 | Deep Learning(Course 2) Improving Deep Neural Networks: Initialization, Regularization, Gradient Checking update |
-| Jun/03/2021 | Deep Learning(Course 2) Improving Deep Neural Networks: Optimization_methods update |
+| Jun/03/2021 | Deep Learning(Course 2) Improving Deep Neural Networks: Optimization_methods, Tensorflow_introduction update |
+
