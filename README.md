@@ -76,3 +76,4 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Jun/03/2021 | Deep Learning(Course 2) Improving Deep Neural Networks: Optimization_methods, Tensorflow_introduction update |
 | Jun/09/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Convolutional Modeling, Keras API Application update |
 | Jun/10/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Residual network, Transfer learning with MobileNet update |
+| Jun/11/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Autonomous driving application Car detection update |
