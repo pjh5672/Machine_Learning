@@ -77,5 +77,5 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Jun/09/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Convolutional Modeling, Keras API Application update |
 | Jun/10/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Residual network, Transfer learning with MobileNet update |
 | Jun/11/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Autonomous driving application Car detection update |
-| Jun/13/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Image segmentation with U-Net architecture update |
+| Jun/13/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Image segmentation with U-Net, Face_Recognition, Art_Generation_with_Neural_Style_Transfer update |
 
