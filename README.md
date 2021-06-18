@@ -53,31 +53,32 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 ## Updates
 | Date | Commit Message |
 |:----:|:----:|
-| Apr/02/2021 | new creation, Week 1: getting started with SFrame |
-| Apr/03/2021 | Week 2: predicting house price, Vector transformation, PageRank example update |
-| Apr/05/2021 | Week 3: Analyzingproduct sentiment | 
-| Apr/06/2021 | Week 4: Retrieving Wikipedia articles, Week 5: Recommending songs | 
-| Apr/07/2021 | new creation -> Advanced Machine Learning | 
-| Apr/10/2021 | Introduction to Deep Learning - Week 1: Linear models and Optimization update | 
-| Apr/12/2021 | Introduction to Deep Learning - Week 2: Simple neural network modeling update | 
-| Apr/14/2021 | Machine Learning(Stanford Univ.): Week02 Linear Regression update |
-| Apr/15/2021 | Machine Learning(Stanford Univ.): Logistic Regression - Neural Network Learning update |
-| Apr/19/2021 | Machine Learning(Stanford Univ.): Week09 Anomaly Detection & Recommender System update |
-| Apr/20/2021 | Deep Learning in Computer Vision(HSE Univ.): Week01 Image alignment task update |
-| Apr/21/2021 | Deep Learning in Computer Vision(HSE Univ.): Week01 Image alignment task_v2 update |
-| Apr/23/2021 | Deep Learning in Computer Vision(HSE Univ.): Week02 Facial keypoints regression update |
-| Apr/23/2021 | Machine Learning Challenge in Programmers (Job Recommendation Task) update |
-| May/06/2021 | Deep Learning in Computer Vision: Week03 ~ 05 task solution update |
-| May/11/2021 | Neural Networks and Deep Learning: Week02 Python Basics, Logistic Regression with a NN mindset update |
-| May/25/2021 | similar image finder using simple distance & angle calculation update |
-| May/27/2021 | Principal Component Analysis algorithm update |
-| May/31/2021 | Deep Learning(Course 1) Neural Networks and Deep Learning: simple modeling & deep learning application update |
-| Jun/02/2021 | Deep Learning(Course 2) Improving Deep Neural Networks: Initialization, Regularization, Gradient Checking update |
-| Jun/03/2021 | Deep Learning(Course 2) Improving Deep Neural Networks: Optimization_methods, Tensorflow_introduction update |
-| Jun/09/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Convolutional Modeling, Keras API Application update |
-| Jun/10/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Residual network, Transfer learning with MobileNet update |
-| Jun/11/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Autonomous driving application Car detection update |
-| Jun/13/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Image segmentation with U-Net, Face_Recognition, Art_Generation_with_Neural_Style_Transfer update |
 | Jun/17/2021 | Deep Learning(Course 5) Sequence Models: Building Recurrent Neural Network, Character-Level Language Modeling, Jazz Improvisation with LSTM Network update |
+| Jun/13/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Image segmentation with U-Net, Face_Recognition, Art_Generation_with_Neural_Style_Transfer update |
+| Jun/11/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Autonomous driving application Car detection update |
+| Jun/10/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Residual network, Transfer learning with MobileNet update |
+| Jun/09/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Convolutional Modeling, Keras API Application update |
+| Jun/03/2021 | Deep Learning(Course 2) Improving Deep Neural Networks: Optimization_methods, Tensorflow_introduction update |
+| Jun/02/2021 | Deep Learning(Course 2) Improving Deep Neural Networks: Initialization, Regularization, Gradient Checking update |
+| May/31/2021 | Deep Learning(Course 1) Neural Networks and Deep Learning: simple modeling & deep learning application update |
+| May/27/2021 | Principal Component Analysis algorithm update |
+| May/25/2021 | similar image finder using simple distance & angle calculation update |
+| May/11/2021 | Neural Networks and Deep Learning: Week02 Python Basics, Logistic Regression with a NN mindset update |
+| May/06/2021 | Deep Learning in Computer Vision: Week03 ~ 05 task solution update |
+| Apr/23/2021 | Machine Learning Challenge in Programmers (Job Recommendation Task) update |
+| Apr/23/2021 | Deep Learning in Computer Vision(HSE Univ.): Week02 Facial keypoints regression update |
+| Apr/21/2021 | Deep Learning in Computer Vision(HSE Univ.): Week01 Image alignment task_v2 update |
+| Apr/20/2021 | Deep Learning in Computer Vision(HSE Univ.): Week01 Image alignment task update |
+| Apr/19/2021 | Machine Learning(Stanford Univ.): Week09 Anomaly Detection & Recommender System update |
+| Apr/15/2021 | Machine Learning(Stanford Univ.): Logistic Regression - Neural Network Learning update |
+| Apr/14/2021 | Machine Learning(Stanford Univ.): Week02 Linear Regression update |
+| Apr/12/2021 | Introduction to Deep Learning - Week 2: Simple neural network modeling update | 
+| Apr/10/2021 | Introduction to Deep Learning - Week 1: Linear models and Optimization update | 
+| Apr/07/2021 | new creation -> Advanced Machine Learning | 
+| Apr/06/2021 | Week 4: Retrieving Wikipedia articles, Week 5: Recommending songs | 
 | Jun/19/2021 | Deep Learning(Course 5) Sequence Models: Operations on Word Vectors-Debiasing, Operations_on_word_vectors update |
+| Apr/05/2021 | Week 3: Analyzingproduct sentiment | 
+| Apr/03/2021 | Week 2: predicting house price, Vector transformation, PageRank example update |
+| Apr/02/2021 | new creation, Week 1: getting started with SFrame |
+
 
