@@ -53,6 +53,7 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 ## Updates
 | Date | Commit Message |
 |:----:|:----:|
+| Jun/19/2021 | Deep Learning(Course 5) Sequence Models: Operations on Word Vectors-Debiasing, Operations_on_word_vectors update |
 | Jun/17/2021 | Deep Learning(Course 5) Sequence Models: Building Recurrent Neural Network, Character-Level Language Modeling, Jazz Improvisation with LSTM Network update |
 | Jun/13/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Image segmentation with U-Net, Face_Recognition, Art_Generation_with_Neural_Style_Transfer update |
 | Jun/11/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Autonomous driving application Car detection update |
@@ -76,7 +77,6 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Apr/10/2021 | Introduction to Deep Learning - Week 1: Linear models and Optimization update | 
 | Apr/07/2021 | new creation -> Advanced Machine Learning | 
 | Apr/06/2021 | Week 4: Retrieving Wikipedia articles, Week 5: Recommending songs | 
-| Jun/19/2021 | Deep Learning(Course 5) Sequence Models: Operations on Word Vectors-Debiasing, Operations_on_word_vectors update |
 | Apr/05/2021 | Week 3: Analyzingproduct sentiment | 
 | Apr/03/2021 | Week 2: predicting house price, Vector transformation, PageRank example update |
 | Apr/02/2021 | new creation, Week 1: getting started with SFrame |
