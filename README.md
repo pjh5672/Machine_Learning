@@ -78,7 +78,6 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 | Jun/10/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Residual network, Transfer learning with MobileNet update |
 | Jun/11/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Autonomous driving application Car detection update |
 | Jun/13/2021 | Deep Learning(Course 4) Convolutional Neural Networks: Image segmentation with U-Net, Face_Recognition, Art_Generation_with_Neural_Style_Transfer update |
-| Jun/17/2021 | Deep Learning(Course 5) Sequence Models: Building Recurrent Neural Network, Character-Level Language Modeling
-, Jazz Improvisation with LSTM Network update |
+| Jun/17/2021 | Deep Learning(Course 5) Sequence Models: Building Recurrent Neural Network, Character-Level Language Modeling, Jazz Improvisation with LSTM Network update |
 | Jun/19/2021 | Deep Learning(Course 5) Sequence Models: Operations on Word Vectors-Debiasing, Operations_on_word_vectors update |
 
