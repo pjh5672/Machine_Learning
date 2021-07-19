@@ -40,6 +40,13 @@ This is a record of Cosera's machine learning classes and related mathematics. I
     - Convolutional Neural Networks
     - Sequence Models
 
+- Machine Learning Engineering for Production (MLOps)  
+    - Introduction to Machine Learning in Production
+    - Machine Learning Data Lifecycle in Production
+    - Machine Learning Modeling Pipelines in Production
+    - Deploying Machine Learning Models in Production
+
+
 
 ### :memo: References
 - **[Machine Learning Challenge in Programmers](https://programmers.co.kr)** 
@@ -48,11 +55,13 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 - **[Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)**   
 - **[Coursera - Advanced Machine Learning](https://www.coursera.org/specializations/aml)**   
 - **[Coursera - Deep Learning](https://www.coursera.org/specializations/deep-learning)**    
+- **[Coursera - Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)**
 
 
 ## Updates
 | Date | Commit Message |
 |:----:|:----:|
+| Jul/19/2021 | MLOps : Introduction to Machine Learning in Production - A journey through data update |
 | Jun/21/2021 | Deep Learning(Course 5) Sequence Models: Neural machine translation with attention, Trigger word detection, Transformer update |
 | Jun/19/2021 | Deep Learning(Course 5) Sequence Models: Operations on Word Vectors-Debiasing, Operations_on_word_vectors update |
 | Jun/17/2021 | Deep Learning(Course 5) Sequence Models: Building Recurrent Neural Network, Character-Level Language Modeling, Jazz Improvisation with LSTM Network update |
