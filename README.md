@@ -61,7 +61,8 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 ## Updates
 | Date | Commit Message |
 |:----:|:----:|
-| Jul/19/2021 | MLOps : Introduction to Machine Learning in Production - A journey through data update |
+| Jul/20/2021 | MLOps(Course 1) : Introduction to Machine Learning in Production - Data Labeling update |
+| Jul/19/2021 | MLOps(Course 1) : Introduction to Machine Learning in Production - A journey through data update |
 | Jun/21/2021 | Deep Learning(Course 5) Sequence Models: Neural machine translation with attention, Trigger word detection, Transformer update |
 | Jun/19/2021 | Deep Learning(Course 5) Sequence Models: Operations on Word Vectors-Debiasing, Operations_on_word_vectors update |
 | Jun/17/2021 | Deep Learning(Course 5) Sequence Models: Building Recurrent Neural Network, Character-Level Language Modeling, Jazz Improvisation with LSTM Network update |
