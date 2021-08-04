@@ -61,6 +61,7 @@ This is a record of Cosera's machine learning classes and related mathematics. I
 ## Updates
 | Date | Commit Message |
 |:----:|:----|
+| Aug/04/2021 | MLOps(Course 3) : Machine Learning Modeling Pipelines in Production - Tensorflow Fairness Indicator update |
 | Aug/02/2021 | MLOps(Course 3) : Machine Learning Modeling Pipelines in Production - Quantization & Prunning, and Knowledge Distillation, TFMA, TFX Evaluator update |
 | Jul/31/2021 | MLOps(Course 3) : Machine Learning Modeling Pipelines in Production - Distributed training update |
 | Jul/27/2021 | MLOps(Course 2) : Machine Learning Data Lifecycle in Production - Feature engineering tutorial update |
